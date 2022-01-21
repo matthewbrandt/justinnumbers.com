@@ -1,2 +1,2 @@
-# justinnumbers.com
-Landingpage for the project Just In Numbers
+# Just In Numbers
+This is a simple landingpage for the on-stream project "justinnumbers". The name of the project is an homage to [justin.tv](https://en.wikipedia.org/wiki/Justin.tv), the former name of [twitch.tv](https://twitch.tv)
