@@ -399,7 +399,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 
 .text-light h1, .text-light h2, .text-light h3, .text-light h4, .text-light h5, .text-light h6, .text-light .h1, .text-light .h2, .text-light .h3, .text-light .h4, .text-light .h5, .text-light .h6 {
-    color:  !important
+    color: #FFFFFF !important
 }
 
 .text-sm {
